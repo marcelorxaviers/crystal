@@ -1,3 +1,4 @@
 # Ignore all logfiles and tempfiles.
 /**/*.o
 /**/*.bundle
+.DS_Store
